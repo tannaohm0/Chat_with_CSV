@@ -40,6 +40,5 @@ Open your web browser and navigate to http://localhost:8501 to start interacting
 Contributions are what make the open-source community such a powerful platform for learning, inspiring, and creating. Any contributions you make are greatly appreciated.
 
 ## Contact
-- Gmail: kushalpatel0265@gmail.com
-- Project Link: https://github.com/kushalpatel0265/Chat-with-Multiple-CSV
-- Deployment Link: https://chatwithmultiplecsv.streamlit.app/
+- Gmail: tannaohm0@gmail.com
+
